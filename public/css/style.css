@@ -1,0 +1,8 @@
+.btn-white {
+    border-color: white;
+    background-color: transparent;
+}
+
+.btn-white:hover {
+    background-color: white;
+}
